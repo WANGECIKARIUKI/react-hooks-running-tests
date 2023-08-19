@@ -1,6 +1,5 @@
 import React from "react";
-import Header from "..components/Header";
-function header(props) {
+function Header(props) {
       return (
         <h1>
           {/* uncomment the line below to pass the test */}
